@@ -1,11 +1,6 @@
 # leetCodeSolution
+
 在leetCode做题思路笔记
-
-## TODO LIST
-
-- 5、最长回文字符串
-
-- 654、最大二叉树
 
 **题目来源：[力扣](https://leetcode-cn.com/)**
 
